@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.card{
+    /* width: 200px;
+    height: 10%;
+    border-radius: 0;
+    box-shadow: 2px 3px 2px black;
+    margin-top: 15px; */
+
+    font-family: 'Space Mono', monospace;
+}
+
+.card .coeur:hover{
+    color:rgb(128, 11, 11);
+    transition:.3s ease-in-out;
+    cursor: pointer;
+}

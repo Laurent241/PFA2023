@@ -1,0 +1,19 @@
+.ACat{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(238, 227, 227, 0.817);
+
+}
+
+
+.ACat .Cartes{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+}
+
+.ACat h3{
+    text-decoration: underline;
+    font-variant: small-caps;
+}

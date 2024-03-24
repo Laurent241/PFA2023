@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Prompt:ital,wght@0,100;0,500;0,600;1,100;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+.Marque{
+    font-family: 'Prompt', sans-serif;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.886);
+    font-style: italic;
+    font-weight: 800;
+    padding: 5px;
+    border-radius: 9px;
+    /* background: linear-gradient(23deg, rgba(234, 106, 21, 0.416),#900f0f8a,rgba(82, 17, 187, 0.429)); */
+}
+
+.liens{
+    font-family: 'IBM Plex Mono', monospace;   
+     font-size: 20px;
+    font-weight: 500;
+}
+
+.livraison{
+    align-items: center;
+    /* background-color: rgba(255, 251, 0, 0.591); */
+    color: rgba(121,32,22,.9);
+    font-family: 'Satisfy', cursive;
+    font-size: 22px;
+    text-decoration: underline;
+}

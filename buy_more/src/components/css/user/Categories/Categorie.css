@@ -1,0 +1,7 @@
+.imageCat{
+    width: 370px;
+    height: 260px;
+    border-radius: 2%;
+    box-shadow: 2px -1px 5px rgb(25, 24, 25);
+    /* margin-left: 5px; */
+}

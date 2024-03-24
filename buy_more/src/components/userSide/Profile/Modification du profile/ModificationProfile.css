@@ -1,0 +1,14 @@
+
+
+
+.modification{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+form{
+    border: 1px solid rgb(168, 14, 206); 
+    background-color: rgba(223, 0, 7, 0.054);
+    box-shadow: -1px -1px 3px rgba(0, 0, 0, 0.492) inset;
+}
